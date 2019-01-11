@@ -1,5 +1,4 @@
 /* client.c
- * kandidatnummer: 15201
  ******************************************
  * USAGE:
  * Arguments: <hostname> <port> -DEBUG
