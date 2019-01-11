@@ -1,5 +1,4 @@
 /* server.c
- * kandidatnummer: 15201
  *******************************************
  * USAGE:
  * Arguments: <filepath>  <port> -DEBUG
