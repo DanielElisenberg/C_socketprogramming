@@ -1,5 +1,4 @@
 /* commonfunctions.c
- * kandidatnummer: 15201
  *******************************************
  * Functions used by both server.c and
  * client.c.
